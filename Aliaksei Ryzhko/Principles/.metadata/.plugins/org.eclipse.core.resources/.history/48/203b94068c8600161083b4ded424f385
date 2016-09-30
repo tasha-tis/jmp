@@ -1,0 +1,7 @@
+
+public class Transport {
+	
+	void drive(){
+		System.out.println("drive");	}
+
+}

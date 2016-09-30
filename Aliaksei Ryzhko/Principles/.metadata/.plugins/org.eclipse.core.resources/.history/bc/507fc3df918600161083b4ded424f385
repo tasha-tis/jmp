@@ -1,0 +1,6 @@
+
+public class HttpContext {
+
+	public static final String Current = null;
+
+}
